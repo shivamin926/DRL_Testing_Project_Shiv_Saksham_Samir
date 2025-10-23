@@ -259,37 +259,6 @@ Plots → notebooks/
 
 ---
 
-## 🏁 11. Deliverables for Submission
-
-✔️ README.md (this file)
-✔️ configs/personas.yaml
-✔️ models/*.zip
-✔️ logs/*.csv, logs/tb/
-✔️ notebooks/*.png, notebooks/*.gif or .mp4
-✔️ Optional: brief Results Table (mean return, crash rate, etc.)
-
----
-
-## 🧩 Example Results Table (fill in after running eval.py)
-
-| Algorithm | Seed | Mean Return | Mean Steps | Crash Rate (%) | Mean Height |
-|-----------|------|-------------|------------|----------------|-------------|
-| PPO       | 7    | ...         | ...        | ...            | ...         |
-| A2C       | 7    | ...         | ...        | ...            | ...         |
-| PPO       | 21   | ...         | ...        | ...            | ...         |
-| A2C       | 21   | ...         | ...        | ...            | ...         |
-
----
-
-## 🧠 Key Takeaways
-
-Persona held constant → fair algorithm comparison
-
-Multiple seeds → reproducibility and variance check
-
-Plots show learning progression, stability, and crash/coverage rates
-
-Videos demonstrate learned behavior visually
 
 Author: Shiv Amin
 Course: Topics in Computer Science — DRL for Automated Testing
