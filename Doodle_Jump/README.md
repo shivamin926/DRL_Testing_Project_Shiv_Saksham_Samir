@@ -251,10 +251,27 @@ Logs + CSVs → logs/
 
 Plots → notebooks/
 
+---
+
+
 
 ---
 
 
-Author: Shiv Amin
+## 🎬 Example Video
+
+<p align="center">
+	<video width="480" controls>
+		<source src="notebooks/Video.mp4" type="video/mp4">
+		Your browser does not support the video tag. 
+		<a href="notebooks/Video.mp4">Download Video.mp4</a>
+	</video>
+</p>
+
+If the video does not display, you can download it here: [▶️ Video.mp4](notebooks/Video.mp4)
+
+---
+
+Author: Shiv Amin, Saksham Tejpal, Samir Choudary
 Course: Topics in Computer Science — DRL for Automated Testing
 Date: October 2025
