@@ -253,11 +253,6 @@ Plots → notebooks/
 
 ---
 
-
-
----
-
-
 ## 🎬 Example Video
 
 <p align="center">
