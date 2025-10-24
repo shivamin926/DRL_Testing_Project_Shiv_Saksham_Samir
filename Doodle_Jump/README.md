@@ -250,7 +250,6 @@ Models → models/
 Logs + CSVs → logs/
 
 Plots → notebooks/
-
 ---
 
 ## 🎬 Example Video
