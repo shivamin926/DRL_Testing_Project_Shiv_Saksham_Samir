@@ -51,10 +51,6 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-#### Additional Packages for Video Export
-```bash
-pip install imageio imageio-ffmpeg
-```
 
 ---
 
@@ -111,7 +107,6 @@ logs/eval_survivor_a2c_s21.csv
 ## 🎮 4. Visualization (Record Gameplay → notebooks/)
 
 Each command below records a short GIF of the trained agent playing the game.
-You can optionally save as MP4 with --save_mp4.
 
 ```powershell
 # PPO & A2C (seed 7)
@@ -238,7 +233,7 @@ python src\eval.py --model_path models\a2c_survivor_algo_comp_s7_final.zip  --pe
 python src\eval.py --model_path models\ppo_survivor_algo_comp_s21_final.zip --persona survivor --episodes 20 --out_csv logs\eval_survivor_ppo_s21.csv
 python src\eval.py --model_path models\a2c_survivor_algo_comp_s21_final.zip --persona survivor --episodes 20 --out_csv logs\eval_survivor_a2c_s21.csv
 
-# --- VISUALIZE (GIFs) ---
+# --- VISUALIZE (Gameplay) ---
 python src\visualize.py --model_path models\ppo_survivor_algo_comp_s7_final.zip  --persona survivor
 python src\visualize.py --model_path models\a2c_survivor_algo_comp_s7_final.zip  --persona survivor
 python src\visualize.py --model_path models\ppo_survivor_algo_comp_s21_final.zip --persona survivor
