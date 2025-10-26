@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "firstName": "Chloe",
+    "lastName": "Lee",
+    "email": "chloe.lee@test.org",
+    "phone": "+11773089643",
+    "country": "CA"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Web Developer",
+        "company": "Cloudify",
+        "location": "Bangalore",
+        "from": "2015-10",
+        "to": "2022-06",
+        "role": "Led a team of developers to launch new features."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Peking University",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [],
+    "skills": "JavaScript, HTML, CSS",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "No",
+    "disabilityStatus": "No, I do not have a disability"
+  }
+}

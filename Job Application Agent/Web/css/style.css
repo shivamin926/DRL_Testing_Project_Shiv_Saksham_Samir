@@ -1,0 +1,201 @@
+/* ===============================
+   Global Styles
+   =============================== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  color: #333;
+  margin: 0;
+  padding: 40px;
+  line-height: 1.6;
+}
+
+/* ===============================
+   Headings
+   =============================== */
+h2, h3, h4 {
+  color: #003366;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.page-title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #003366;
+  letter-spacing: 0.5px;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+}
+
+/* ===============================
+   Form Container
+   =============================== */
+form {
+  background: #ffffff;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 35px 45px;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+/* ===============================
+   Form Fields
+   =============================== */
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #222;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 10px 12px;
+  margin-bottom: 18px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: border 0.2s ease, box-shadow 0.2s ease;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #0056b3;
+  box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.15);
+  outline: none;
+}
+
+/* ===============================
+   Buttons — Base Style
+   =============================== */
+button,
+.nav-buttons a {
+  display: inline-block;
+  width: 140px;
+  height: 35px;
+  line-height: 35px;
+  text-align: center;
+  margin: 8px;
+  padding: 0;
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 6px;
+  border: none;
+  text-decoration: none;
+  letter-spacing: 0.3px;
+  cursor: pointer;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  transition: all 0.25s ease-in-out;
+}
+
+/* ===============================
+   Primary Button (Blue)
+   =============================== */
+button,
+.nav-buttons .next-btn {
+  background: linear-gradient(90deg, #0078d4, #005ea0);
+}
+
+button:hover,
+.nav-buttons .next-btn:hover {
+  background: linear-gradient(90deg, #005ea0, #004b82);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 90, 180, 0.25);
+}
+
+/* ===============================
+   Back Button (Grey)
+   =============================== */
+.nav-buttons .back-btn {
+  background: linear-gradient(90deg, #6c757d, #5a6268);
+}
+
+.nav-buttons .back-btn:hover {
+  background: linear-gradient(90deg, #5a6268, #495057);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(92, 97, 102, 0.18);
+}
+
+/* ===============================
+   Delete Button (Red)
+   =============================== */
+button.delete-btn {
+  background: linear-gradient(90deg, #dc3545, #b52a36);
+}
+
+button.delete-btn:hover {
+  background: linear-gradient(90deg, #b52a36, #921f29);
+  box-shadow: 0 4px 10px rgba(220, 53, 69, 0.3);
+  transform: translateY(-2px);
+}
+
+/* ===============================
+   Navigation Container
+   =============================== */
+.nav-buttons {
+  margin-top: 25px;
+  text-align: center;
+}
+
+/* ===============================
+   Section Headings
+   =============================== */
+form h4 {
+  margin-top: 25px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #e0e0e0;
+  color: #0056b3;
+}
+
+/* ===============================
+   Review Page
+   =============================== */
+#reviewContent {
+  background: #ffffff;
+  max-width: 720px;
+  margin: 0 auto 40px auto;
+  padding: 35px 45px;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  line-height: 1.7;
+}
+
+#reviewContent p {
+  margin-bottom: 12px;
+}
+
+#reviewContent strong {
+  color: #0056b3;
+}
+
+/* ===============================
+   Responsive Design
+   =============================== */
+@media (max-width: 700px) {
+  body {
+    padding: 20px;
+  }
+
+  form, #reviewContent {
+    padding: 25px 20px;
+  }
+
+  button, .nav-buttons a {
+    width: 100%;
+    margin: 10px 0;
+    height: 40px;
+    line-height: 40px;
+  }
+}

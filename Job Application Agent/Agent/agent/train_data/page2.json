@@ -1,0 +1,585 @@
+{
+  "correct": [
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Cloudify",
+          "location": "Bangalore",
+          "from": "2016-02",
+          "to": "2023-11",
+          "role": "Analyzed business data to extract insights."
+        },
+        {
+          "jobTitle": "Web Developer",
+          "company": "DataWave",
+          "location": "Beijing",
+          "from": "2015-11",
+          "to": "2023-09",
+          "role": "Managed project timelines and deliverables."
+        },
+        {
+          "jobTitle": "Web Developer",
+          "company": "TechCorp",
+          "location": "Bangalore",
+          "from": "2019-07",
+          "to": "2023-01",
+          "role": "Managed project timelines and deliverables."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Data Dashboard",
+          "description": "Implemented a CRM tool for managing client relationships."
+        },
+        {
+          "title": "Mobile Game",
+          "description": "Developed an online store with secure payment integration."
+        }
+      ],
+      "educations": [
+        {
+          "school": "MIT",
+          "degree": "Diploma",
+          "field": "Engineering"
+        },
+        {
+          "school": "Peking University",
+          "degree": "Master",
+          "field": "Computer Science"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Project Manager",
+          "company": "CodeNest",
+          "location": "Bangalore",
+          "from": "2018-04",
+          "to": "2021-02",
+          "role": "Designed user interfaces and improved UX."
+        },
+        {
+          "jobTitle": "Project Manager",
+          "company": "Cloudify",
+          "location": "S\u00e3o Paulo",
+          "from": "2015-10",
+          "to": "2022-06",
+          "role": "Led a team of developers to launch new features."
+        },
+        {
+          "jobTitle": "Web Developer",
+          "company": "CodeNest",
+          "location": "S\u00e3o Paulo",
+          "from": "2016-12",
+          "to": "2023-03",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "description": "Built a chatbot using NLP for customer support."
+        },
+        {
+          "title": "AI Chatbot",
+          "description": "Built a chatbot using NLP for customer support."
+        }
+      ],
+      "educations": [
+        {
+          "school": "Peking University",
+          "degree": "Diploma",
+          "field": "Data Science"
+        }
+      ],
+      "skills": "React, Node.js",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Data Analyst",
+          "company": "DataWave",
+          "location": "Bangalore",
+          "from": "2019-07",
+          "to": "2023-06",
+          "role": "Managed project timelines and deliverables."
+        },
+        {
+          "jobTitle": "Web Developer",
+          "company": "CodeNest",
+          "location": "London",
+          "from": "2016-07",
+          "to": "2023-11",
+          "role": "Designed user interfaces and improved UX."
+        },
+        {
+          "jobTitle": "UX Designer",
+          "company": "CodeNest",
+          "location": "Beijing",
+          "from": "2017-07",
+          "to": "2024-05",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "CRM System",
+          "description": "Created a dashboard for visualizing sales data."
+        },
+        {
+          "title": "E-Commerce Platform",
+          "description": "Created a dashboard for visualizing sales data."
+        }
+      ],
+      "educations": [
+        {
+          "school": "University of Toronto",
+          "degree": "Diploma",
+          "field": "Information Technology"
+        },
+        {
+          "school": "IIT Delhi",
+          "degree": "PhD",
+          "field": "Data Science"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/liamw"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "UX Designer",
+          "company": "CodeNest",
+          "location": "London",
+          "from": "2020-05",
+          "to": "2023-06",
+          "role": "Managed project timelines and deliverables."
+        },
+        {
+          "jobTitle": "Project Manager",
+          "company": "TechCorp",
+          "location": "S\u00e3o Paulo",
+          "from": "2016-08",
+          "to": "2021-01",
+          "role": "Designed user interfaces and improved UX."
+        },
+        {
+          "jobTitle": "Data Analyst",
+          "company": "CodeNest",
+          "location": "Toronto",
+          "from": "2018-08",
+          "to": "2024-11",
+          "role": "Led a team of developers to launch new features."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mobile Game",
+          "description": "Developed an online store with secure payment integration."
+        }
+      ],
+      "educations": [
+        {
+          "school": "IIT Delhi",
+          "degree": "Bachelor",
+          "field": "Design"
+        },
+        {
+          "school": "MIT",
+          "degree": "Master",
+          "field": "Engineering"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "DataWave",
+          "location": "London",
+          "from": "2015-08",
+          "to": "2023-01",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "description": "Developed an online store with secure payment integration."
+        }
+      ],
+      "educations": [
+        {
+          "school": "MIT",
+          "degree": "Diploma",
+          "field": "Computer Science"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/emmasmith"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "UX Designer",
+          "company": "Cloudify",
+          "location": "S\u00e3o Paulo",
+          "from": "2017-10",
+          "to": "2022-10",
+          "role": "Developed and maintained web applications."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Data Dashboard",
+          "description": "Implemented a CRM tool for managing client relationships."
+        }
+      ],
+      "educations": [
+        {
+          "school": "MIT",
+          "degree": "PhD",
+          "field": "Data Science"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/alice-j"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "DataWave",
+          "location": "S\u00e3o Paulo",
+          "from": "2020-04",
+          "to": "2024-11",
+          "role": "Managed project timelines and deliverables."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mobile Game",
+          "description": "Implemented a CRM tool for managing client relationships."
+        }
+      ],
+      "educations": [
+        {
+          "school": "IIT Delhi",
+          "degree": "Master",
+          "field": "Engineering"
+        },
+        {
+          "school": "Peking University",
+          "degree": "Bachelor",
+          "field": "Design"
+        }
+      ],
+      "skills": "React, Node.js",
+      "linkedin": "https://linkedin.com/in/liamw"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "InnoSoft",
+          "location": "Bangalore",
+          "from": "2016-07",
+          "to": "2024-11",
+          "role": "Managed project timelines and deliverables."
+        }
+      ],
+      "projects": [
+        {
+          "title": "AI Chatbot",
+          "description": "Designed a cross-platform mobile game in Unity."
+        },
+        {
+          "title": "E-Commerce Platform",
+          "description": "Implemented a CRM tool for managing client relationships."
+        }
+      ],
+      "educations": [
+        {
+          "school": "IIT Delhi",
+          "degree": "Master",
+          "field": "Design"
+        },
+        {
+          "school": "Oxford",
+          "degree": "PhD",
+          "field": "Design"
+        }
+      ],
+      "skills": "JavaScript, HTML, CSS",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Project Manager",
+          "company": "DataWave",
+          "location": "S\u00e3o Paulo",
+          "from": "2020-06",
+          "to": "2021-11",
+          "role": "Analyzed business data to extract insights."
+        },
+        {
+          "jobTitle": "Project Manager",
+          "company": "InnoSoft",
+          "location": "London",
+          "from": "2017-06",
+          "to": "2021-02",
+          "role": "Led a team of developers to launch new features."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mobile Game",
+          "description": "Developed an online store with secure payment integration."
+        },
+        {
+          "title": "Mobile Game",
+          "description": "Developed an online store with secure payment integration."
+        }
+      ],
+      "educations": [
+        {
+          "school": "MIT",
+          "degree": "Diploma",
+          "field": "Information Technology"
+        }
+      ],
+      "skills": "Figma, UX Research",
+      "linkedin": "https://linkedin.com/in/emmasmith"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Web Developer",
+          "company": "TechCorp",
+          "location": "S\u00e3o Paulo",
+          "from": "2018-01",
+          "to": "2024-11",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "description": "Implemented a CRM tool for managing client relationships."
+        },
+        {
+          "title": "Data Dashboard",
+          "description": "Designed a cross-platform mobile game in Unity."
+        }
+      ],
+      "educations": [
+        {
+          "school": "IIT Delhi",
+          "degree": "PhD",
+          "field": "Computer Science"
+        }
+      ],
+      "skills": "Figma, UX Research",
+      "linkedin": "https://linkedin.com/in/rajkumar"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Data Analyst",
+          "company": "InnoSoft",
+          "location": "S\u00e3o Paulo",
+          "from": "2019-06",
+          "to": "2024-03",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "E-Commerce Platform",
+          "description": "Designed a cross-platform mobile game in Unity."
+        },
+        {
+          "title": "CRM System",
+          "description": "Designed a cross-platform mobile game in Unity."
+        }
+      ],
+      "educations": [
+        {
+          "school": "University of Toronto",
+          "degree": "Master",
+          "field": "Engineering"
+        },
+        {
+          "school": "IIT Delhi",
+          "degree": "Master",
+          "field": "Data Science"
+        }
+      ],
+      "skills": "React, Node.js",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "TechCorp",
+          "location": "London",
+          "from": "2016-10",
+          "to": "2024-03",
+          "role": "Led a team of developers to launch new features."
+        },
+        {
+          "jobTitle": "Data Analyst",
+          "company": "CodeNest",
+          "location": "London",
+          "from": "2020-04",
+          "to": "2023-07",
+          "role": "Analyzed business data to extract insights."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mobile Game",
+          "description": "Designed a cross-platform mobile game in Unity."
+        },
+        {
+          "title": "AI Chatbot",
+          "description": "Designed a cross-platform mobile game in Unity."
+        }
+      ],
+      "educations": [
+        {
+          "school": "University of Toronto",
+          "degree": "Bachelor",
+          "field": "Information Technology"
+        }
+      ],
+      "skills": "Figma, UX Research",
+      "linkedin": "https://linkedin.com/in/alice-j"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Web Developer",
+          "company": "DataWave",
+          "location": "S\u00e3o Paulo",
+          "from": "2015-05",
+          "to": "2023-04",
+          "role": "Developed and maintained web applications."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "CodeNest",
+          "location": "London",
+          "from": "2017-11",
+          "to": "2021-07",
+          "role": "Led a team of developers to launch new features."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Mobile Game",
+          "description": "Implemented a CRM tool for managing client relationships."
+        },
+        {
+          "title": "Data Dashboard",
+          "description": "Created a dashboard for visualizing sales data."
+        }
+      ],
+      "educations": [
+        {
+          "school": "IIT Delhi",
+          "degree": "Certificate",
+          "field": "Engineering"
+        },
+        {
+          "school": "IIT Delhi",
+          "degree": "Diploma",
+          "field": "Information Technology"
+        }
+      ],
+      "skills": "C++, Java",
+      "linkedin": "https://linkedin.com/in/liamw"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "Software Engineer",
+          "company": "DataWave",
+          "location": "Beijing",
+          "from": "2019-02",
+          "to": "2021-12",
+          "role": "Designed user interfaces and improved UX."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Data Dashboard",
+          "description": "Created a dashboard for visualizing sales data."
+        },
+        {
+          "title": "E-Commerce Platform",
+          "description": "Designed a cross-platform mobile game in Unity."
+        }
+      ],
+      "educations": [
+        {
+          "school": "MIT",
+          "degree": "Bachelor",
+          "field": "Engineering"
+        },
+        {
+          "school": "Oxford",
+          "degree": "PhD",
+          "field": "Computer Science"
+        }
+      ],
+      "skills": "Figma, UX Research",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    },
+    {
+      "works": [
+        {
+          "jobTitle": "UX Designer",
+          "company": "TechCorp",
+          "location": "Bangalore",
+          "from": "2018-11",
+          "to": "2024-03",
+          "role": "Managed project timelines and deliverables."
+        },
+        {
+          "jobTitle": "Software Engineer",
+          "company": "Cloudify",
+          "location": "London",
+          "from": "2016-10",
+          "to": "2021-01",
+          "role": "Developed and maintained web applications."
+        }
+      ],
+      "projects": [
+        {
+          "title": "Data Dashboard",
+          "description": "Developed an online store with secure payment integration."
+        }
+      ],
+      "educations": [
+        {
+          "school": "University of Toronto",
+          "degree": "Master",
+          "field": "Data Science"
+        }
+      ],
+      "skills": "Figma, UX Research",
+      "linkedin": "https://linkedin.com/in/zhangwei"
+    }
+  ]
+}

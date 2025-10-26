@@ -1,0 +1,34 @@
+{
+  "personal": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@test.org",
+    "phone": "+442146686139",
+    "country": "GB"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "Oxford",
+        "degree": "Master",
+        "field": "Engineering"
+      }
+    ],
+    "projects": [
+      {
+        "title": "AI Chatbot",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "C++, Java",
+    "linkedin": "https://linkedin.com/in/liamw"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

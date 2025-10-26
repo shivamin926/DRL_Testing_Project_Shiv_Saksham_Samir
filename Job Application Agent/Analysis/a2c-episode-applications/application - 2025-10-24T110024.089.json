@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "firstName": "Chloe",
+    "lastName": "Lee",
+    "email": "chloe.lee@test.org",
+    "phone": "+11773089643",
+    "country": "CA"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "Peking University",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Mobile Game",
+        "description": "Created a dashboard for visualizing sales data."
+      },
+      {
+        "title": "Data Dashboard",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": "https://linkedin.com/in/emmasmith"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "No",
+    "disabilityStatus": "No, I do not have a disability"
+  }
+}

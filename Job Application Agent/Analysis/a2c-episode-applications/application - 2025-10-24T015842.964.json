@@ -1,0 +1,34 @@
+{
+  "personal": {
+    "firstName": "Olivia",
+    "lastName": "Martinez",
+    "email": "olivia.martinez@mail.com",
+    "phone": "+910459941196",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Certificate",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Designed a cross-platform mobile game in Unity."
+      }
+    ],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "No",
+    "gender": "Male",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

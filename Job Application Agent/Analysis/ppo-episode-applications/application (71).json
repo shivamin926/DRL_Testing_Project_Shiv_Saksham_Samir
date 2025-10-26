@@ -1,0 +1,39 @@
+{
+  "personal": {
+    "firstName": "Chloe",
+    "lastName": "Lee",
+    "email": "chloe.lee@email.net",
+    "phone": "+556260589062",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Design"
+      },
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": "https://linkedin.com/in/zhangwei"
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

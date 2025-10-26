@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Zara",
+    "lastName": "Kumar",
+    "email": "zara.kumar@test.org",
+    "phone": "+910787895296",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "DataWave",
+        "location": "São Paulo",
+        "from": "2018-10",
+        "to": "2021-06",
+        "role": "Developed and maintained web applications."
+      }
+    ],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      },
+      {
+        "school": "Peking University",
+        "degree": "PhD",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [],
+    "skills": "Figma, UX Research",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "No",
+    "gender": "Female",
+    "veteranStatus": "No",
+    "disabilityStatus": "No, I do not have a disability"
+  }
+}

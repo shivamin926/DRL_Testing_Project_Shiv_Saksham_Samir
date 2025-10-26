@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Experience</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <h2>Experience</h2>
+  <form id="experienceForm">
+    <h3>Work</h3>
+    <div id="workContainer"></div>
+    <button type="button" onclick="addWork()">Add Work</button>
+
+    <h3>Projects</h3>
+    <div id="projectContainer"></div>
+    <button type="button" onclick="addProject()">Add Project</button>
+
+    <h3>Education</h3>
+    <div id="educationContainer"></div>
+    <button type="button" onclick="addEducation()">Add School</button>
+
+    <h3>Skills</h3>
+    <input type="text" name="skills" placeholder="e.g. Python, SQL">
+
+    <h3>Social Links</h3>
+    <label>LinkedIn: <input type="url" name="linkedin"></label>
+
+    <div class="nav-buttons">
+      <a href="index.html" class="back-btn">Back</a>
+      <button type="submit">Save and Continue</button>
+    </div>
+  </form>
+  <script src="../js/experience.js"></script>
+</body>
+</html>

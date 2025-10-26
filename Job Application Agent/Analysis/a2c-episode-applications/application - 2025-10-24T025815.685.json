@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "firstName": "Olivia",
+    "lastName": "Martinez",
+    "email": "olivia.martinez@mail.com",
+    "phone": "+910459941196",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "Cloudify",
+        "location": "São Paulo",
+        "from": "2019-04",
+        "to": "2021-08",
+        "role": "Designed user interfaces and improved UX."
+      }
+    ],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Certificate",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [],
+    "skills": "Python, SQL",
+    "linkedin": "https://linkedin.com/in/rajkumar"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "No",
+    "gender": "Male",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

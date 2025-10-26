@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Application Questions</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <h2>Application Questions</h2>
+  <form id="questionsForm">
+    <label>Are you 18 or older?
+      <select name="age18">
+        <option value="" selected>Please select one of the options</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+    </label>
+
+    <label>Legally entitled to work in Canada?
+      <select name="canWork">
+        <option value="" selected>Please select one of the options</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+    </label>
+
+    <h3>Voluntary Self-Identification</h3>
+
+    <label>Gender:
+      <select name="gender">
+        <option value="" selected>Please select one of the options</option>
+        <option value="Male">Male</option>
+        <option value="Female">Female</option>
+        <option value="Decline To Self-Identify">Decline To Self-Identify</option>
+      </select>
+    </label>
+
+    <label>Have you served in the Military:
+      <select name="veteranStatus">
+        <option value="" selected>Please select one of the options</option>
+        <option value="Yes">Yes</option>
+        <option value="No">No</option>
+      </select>
+    </label>
+
+    <label>Disability Status:
+      <select name="disabilityStatus">
+        <option value="" selected>Please select one of the options</option>
+        <option value="Yes, I have a disability, or have had one">Yes, I have a disability, or have had one</option>
+        <option value="No, I do not have a disability">No, I do not have a disability</option>
+        <option value="I do not want to answer">I do not want to answer</option>
+      </select>
+    </label>
+
+    <div class="nav-buttons">
+      <a href="experience.html" class="back-btn">Back</a>
+      <button type="submit">Save and Continue</button>
+    </div>
+  </form>
+
+  <script src="../js/questions.js"></script>
+</body>
+</html>
