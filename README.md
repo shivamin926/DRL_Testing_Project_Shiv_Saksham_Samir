@@ -31,13 +31,6 @@ This repository contains two separate projects used for coursework and experimen
    # create and activate a Python virtual environment (example)
    python -m venv .\venv
    .\venv\Scripts\Activate.ps1
-<<<<<<< Updated upstream
-
-   # install dependencies
-   python -m pip install -r .\requirements.txt
-   ```
-=======
->>>>>>> Stashed changes
 
    # install dependencies
    python -m pip install -r .\requirements.txt
@@ -45,6 +38,7 @@ This repository contains two separate projects used for coursework and experimen
 ## Presentation Video
 Presentation video can be found on the following link.
 ```
+https://www.youtube.com/watch?v=w_V3Nlpcd4E
 ```
 ## General notes
 - Prefer `python -m pip install` so pip runs with the same Python interpreter as your virtual environment.
