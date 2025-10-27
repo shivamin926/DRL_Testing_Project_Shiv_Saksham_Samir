@@ -19,13 +19,27 @@ This repository contains two separate projects used for coursework and experimen
    python -m pip install -r .\requirements.txt
    ```
 
-## 2) Job Application
-- Purpose: A separate project included in this repository (internally referred to as "Job Application").
-- Location: check the repository root for the `Job_Application/` (or similarly named) folder.
+## 2) Job Application Agent
+- Purpose: DRL agent to train and test of job application webflow, with multi-page environments
+- Location: `Job_Application_Agent/`.
 - Important: Change into the project's folder and follow the `README.md` inside that folder before running any setup or application commands.
+- Quick start (from repository root):
+   ```powershell
+   # change into the project folder first
+   Set-Location .\Job_Application_Agent
 
-If a project folder doesn't have a README yet, open it and I can create a detailed one for you.
+   # create and activate a Python virtual environment (example)
+   python -m venv .\venv
+   .\venv\Scripts\Activate.ps1
 
+   # install dependencies
+   python -m pip install -r .\requirements.txt
+   ```
+## Presentation Video
+Presentation video can be found on the following link.
+```
+https://www.youtube.com/watch?v=w_V3Nlpcd4E
+```
 ## General notes
 - Prefer `python -m pip install` so pip runs with the same Python interpreter as your virtual environment.
 - If you get "Could not open requirements file" errors, confirm your current directory with `Get-Location` (PowerShell) or `pwd` (bash), or provide the full path to the requirements file.

@@ -1,0 +1,13 @@
+sects(pass/fail),timesteps,n_steps,actions,comments
+1(index)-Fail1,2000,128,40, Resulted in negative rewards for most episodes- Terminated before completion 
+1(index)-Pass,2000,256,20, Changed per loop penalty rewards (from 0.07 to 0.05) and added more reward to go to next page(5 to 20)
+2(experience)-Fail1,10000,256,200, Resulted in convergence to the same page and not learning to move to next page - Terminated before completion 
+2(experience)-Fail2,50000,256,50,Changed rewards to encourage page transitions (from 5 to 30) also increased learning timesteps and timed penalty for more steps (-0.01 for each step). Resulted in Partial completions of the application. 
+2(experience)-Pass,50000,256,50, Changed rewards for partial completion (-ve rewards for missing sections)  
+3(questions)-Fail1,10000,256,20, Resulted in convergence to the same page and not learning to move to next page agent was reselecting the same opptions to gain points
+3(questions)-Pass,10000,256,40,Changed the logic to give penalty if the agent revisits a question it has already answered increase rewards for next page (from 10 to 30) and increased steps per episode. Increased timed penalty for step (-0.05 to -1)
+4(review)-Pass,100,10,10, Submission was passing
+Full-PPO-Fail1,100000,256,per-env, Resulted in agent learning to finish an episode early by collecting points at first page and not moving forward 
+Full-PPO-Pass,100000,256,per-env, Index env was favouring clicking submit and failing changed rewards for index and and added rewards for ratio of completed files by percentage of tiers
+Full-A2C-Fail1,100000,256,per-env, Resulted in convergence at index env and not moving forward collecting and failing - Terminated before completion 
+Full-A2C-Pass,100000,512,per-env,"Changed rewards in experince env to support algo to explore, increaded n_steps and exploration ent_coef( from 0.05 to 0.01)"

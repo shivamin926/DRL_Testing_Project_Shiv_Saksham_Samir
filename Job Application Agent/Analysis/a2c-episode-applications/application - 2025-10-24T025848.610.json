@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "firstName": "Alice",
+    "lastName": "Doe",
+    "email": "alice.doe@test.org",
+    "phone": "+918509453210",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "DataWave",
+        "location": "London",
+        "from": "2017-09",
+        "to": "2023-02",
+        "role": "Led a team of developers to launch new features."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Peking University",
+        "degree": "Certificate",
+        "field": "Design"
+      }
+    ],
+    "projects": [],
+    "skills": "Figma, UX Research",
+    "linkedin": "https://linkedin.com/in/zhangwei"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "No",
+    "gender": "Male",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

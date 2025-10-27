@@ -1,0 +1,48 @@
+{
+  "personal": {
+    "firstName": "Emma",
+    "lastName": "Nguyen",
+    "email": "emma.nguyen@mail.com",
+    "phone": "+441868241059",
+    "country": "GB"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Data Analyst",
+        "company": "TechCorp",
+        "location": "São Paulo",
+        "from": "2016-03",
+        "to": "2021-03",
+        "role": "Analyzed business data to extract insights."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Peking University",
+        "degree": "Certificate",
+        "field": "Engineering"
+      },
+      {
+        "school": "University of Toronto",
+        "degree": "PhD",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Mobile Game",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

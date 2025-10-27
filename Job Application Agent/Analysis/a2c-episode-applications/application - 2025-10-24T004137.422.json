@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Zara",
+    "lastName": "Kumar",
+    "email": "zara.kumar@test.org",
+    "phone": "+910787895296",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      },
+      {
+        "school": "Peking University",
+        "degree": "PhD",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Data Dashboard",
+        "description": "Developed an online store with secure payment integration."
+      },
+      {
+        "title": "Data Dashboard",
+        "description": "Designed a cross-platform mobile game in Unity."
+      }
+    ],
+    "skills": "Figma, UX Research",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "No",
+    "gender": "Female",
+    "veteranStatus": "No",
+    "disabilityStatus": "No, I do not have a disability"
+  }
+}

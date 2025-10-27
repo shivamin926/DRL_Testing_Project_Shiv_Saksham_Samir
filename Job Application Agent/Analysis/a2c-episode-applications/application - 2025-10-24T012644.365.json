@@ -1,0 +1,51 @@
+{
+  "personal": {
+    "firstName": "Chloe",
+    "lastName": "Lee",
+    "email": "chloe.lee@test.org",
+    "phone": "+11773089643",
+    "country": "CA"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Web Developer",
+        "company": "Cloudify",
+        "location": "Bangalore",
+        "from": "2015-10",
+        "to": "2022-06",
+        "role": "Led a team of developers to launch new features."
+      },
+      {
+        "jobTitle": "Web Developer",
+        "company": "InnoSoft",
+        "location": "Toronto",
+        "from": "2015-08",
+        "to": "2022-03",
+        "role": "Designed user interfaces and improved UX."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Peking University",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Mobile Game",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "JavaScript, HTML, CSS",
+    "linkedin": "https://linkedin.com/in/emmasmith"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "No",
+    "disabilityStatus": "No, I do not have a disability"
+  }
+}

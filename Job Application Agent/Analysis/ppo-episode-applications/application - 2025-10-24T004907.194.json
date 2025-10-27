@@ -1,0 +1,38 @@
+{
+  "personal": {
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "john.smith@test.org",
+    "phone": "+442146686139",
+    "country": "GB"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Web Developer",
+        "company": "InnoSoft",
+        "location": "London",
+        "from": "2020-06",
+        "to": "2023-07",
+        "role": "Designed user interfaces and improved UX."
+      }
+    ],
+    "educations": [
+      {
+        "school": "Oxford",
+        "degree": "Master",
+        "field": "Engineering"
+      }
+    ],
+    "projects": [],
+    "skills": "C++, Java",
+    "linkedin": "https://linkedin.com/in/liamw"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}

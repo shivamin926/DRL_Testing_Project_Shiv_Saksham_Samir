@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Personal Info</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <h2>Personal Information</h2>
+  <form id="personalForm">
+    <label>First Name: <input type="text" name="firstName"></label>
+    <label>Last Name: <input type="text" name="lastName"></label>
+    <label>Email: <input type="email" name="email"></label>
+    <label>Phone Number: <input type="tel" name="phone"></label>
+    <label>Country:</label>
+    <select name="country">
+      <option value="" selected>Select your country</option>
+      <option value="BR">Brazil</option>
+      <option value="CA">Canada</option>
+      <option value="CN">China</option>
+      <option value="IN">India</option>
+      <option value="US">United States</option>
+      <option value="GB">United Kingdom</option>
+    </select>
+    <div class="nav-buttons">
+      <button type="submit">Save and Continue</button>
+    </div>
+  </form>
+  <script src="js/personal.js"></script>
+</body>
+</html>

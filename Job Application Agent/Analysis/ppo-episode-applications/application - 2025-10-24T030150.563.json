@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Zara",
+    "lastName": "Chen",
+    "email": "zara.chen@example.com",
+    "phone": "+910803769543",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Project Manager",
+        "company": "CodeNest",
+        "location": "London",
+        "from": "2020-01",
+        "to": "2024-09",
+        "role": "Managed project timelines and deliverables."
+      }
+    ],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "CRM System",
+        "description": "Developed an online store with secure payment integration."
+      }
+    ],
+    "skills": "C++, Java",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

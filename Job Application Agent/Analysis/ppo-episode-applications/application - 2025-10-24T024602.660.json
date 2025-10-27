@@ -1,0 +1,56 @@
+{
+  "personal": {
+    "firstName": "Alice",
+    "lastName": "Lee",
+    "email": "alice.lee@test.org",
+    "phone": "+442960642027",
+    "country": "GB"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "CodeNest",
+        "location": "São Paulo",
+        "from": "2017-11",
+        "to": "2023-06",
+        "role": "Led a team of developers to launch new features."
+      },
+      {
+        "jobTitle": "Software Engineer",
+        "company": "DataWave",
+        "location": "Bangalore",
+        "from": "2018-02",
+        "to": "2024-03",
+        "role": "Developed and maintained web applications."
+      }
+    ],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Data Science"
+      },
+      {
+        "school": "University of Toronto",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

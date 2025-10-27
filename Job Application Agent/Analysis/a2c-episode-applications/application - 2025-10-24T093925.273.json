@@ -1,0 +1,29 @@
+{
+  "personal": {
+    "firstName": "Carlos",
+    "lastName": "Zhang",
+    "email": "carlos.zhang@example.com",
+    "phone": "+559464305043",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "Master",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [],
+    "skills": "",
+    "linkedin": "https://linkedin.com/in/zhangwei"
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "No",
+    "gender": "Female",
+    "veteranStatus": "No",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

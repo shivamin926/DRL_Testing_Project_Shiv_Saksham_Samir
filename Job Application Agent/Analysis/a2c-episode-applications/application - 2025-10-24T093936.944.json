@@ -1,0 +1,34 @@
+{
+  "personal": {
+    "firstName": "David",
+    "lastName": "Zhang",
+    "email": "david.zhang@mail.com",
+    "phone": "+916960380408",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "IIT Delhi",
+        "degree": "Diploma",
+        "field": "Data Science"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Diploma",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "No",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

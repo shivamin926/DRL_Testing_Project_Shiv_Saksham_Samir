@@ -1,0 +1,34 @@
+{
+  "personal": {
+    "firstName": "Zara",
+    "lastName": "Chen",
+    "email": "zara.chen@example.com",
+    "phone": "+910803769543",
+    "country": "IN"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [
+      {
+        "title": "CRM System",
+        "description": "Developed an online store with secure payment integration."
+      }
+    ],
+    "skills": "",
+    "linkedin": "https://linkedin.com/in/alice-j"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

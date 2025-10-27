@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Noah",
+    "lastName": "Williams",
+    "email": "noah.williams@email.net",
+    "phone": "+550929025131",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "Cloudify",
+        "location": "London",
+        "from": "2017-06",
+        "to": "2023-11",
+        "role": "Designed user interfaces and improved UX."
+      }
+    ],
+    "educations": [
+      {
+        "school": "IIT Delhi",
+        "degree": "PhD",
+        "field": "Design"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [],
+    "skills": "",
+    "linkedin": "https://linkedin.com/in/alice-j"
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Female",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

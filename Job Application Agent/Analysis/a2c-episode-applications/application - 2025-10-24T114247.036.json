@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Zara",
+    "lastName": "Zhang",
+    "email": "zara.zhang@email.net",
+    "phone": "+553164192443",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "DataWave",
+        "location": "London",
+        "from": "2016-09",
+        "to": "2024-12",
+        "role": "Analyzed business data to extract insights."
+      }
+    ],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Diploma",
+        "field": "Information Technology"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Master",
+        "field": "Computer Science"
+      }
+    ],
+    "projects": [],
+    "skills": "React, Node.js",
+    "linkedin": "https://linkedin.com/in/alice-j"
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Male",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

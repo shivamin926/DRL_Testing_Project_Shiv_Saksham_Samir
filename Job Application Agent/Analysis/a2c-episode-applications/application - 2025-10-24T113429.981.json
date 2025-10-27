@@ -1,0 +1,43 @@
+{
+  "personal": {
+    "firstName": "Noah",
+    "lastName": "Williams",
+    "email": "noah.williams@email.net",
+    "phone": "+550929025131",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "IIT Delhi",
+        "degree": "PhD",
+        "field": "Design"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "CRM System",
+        "description": "Implemented a CRM tool for managing client relationships."
+      },
+      {
+        "title": "Mobile Game",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Female",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

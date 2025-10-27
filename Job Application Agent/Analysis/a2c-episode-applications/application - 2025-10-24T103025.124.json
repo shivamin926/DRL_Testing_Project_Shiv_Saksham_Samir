@@ -1,0 +1,29 @@
+{
+  "personal": {
+    "firstName": "Mia",
+    "lastName": "Kumar",
+    "email": "mia.kumar@example.com",
+    "phone": "+551982518982",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "MIT",
+        "degree": "Certificate",
+        "field": "Computer Science"
+      }
+    ],
+    "projects": [],
+    "skills": "C++, Java",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Female",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

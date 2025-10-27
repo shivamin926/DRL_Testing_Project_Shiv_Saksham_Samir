@@ -1,0 +1,68 @@
+{
+  "personal": {
+    "firstName": "David",
+    "lastName": "Kumar",
+    "email": "david.kumar@email.net",
+    "phone": "+16106009896",
+    "country": "CA"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "Software Engineer",
+        "company": "DataWave",
+        "location": "Beijing",
+        "from": "2016-11",
+        "to": "2023-09",
+        "role": "Managed project timelines and deliverables."
+      },
+      {
+        "jobTitle": "Web Developer",
+        "company": "InnoSoft",
+        "location": "São Paulo",
+        "from": "2015-03",
+        "to": "2022-09",
+        "role": "Designed user interfaces and improved UX."
+      },
+      {
+        "jobTitle": "Data Analyst",
+        "company": "TechCorp",
+        "location": "London",
+        "from": "2017-04",
+        "to": "2022-11",
+        "role": "Managed project timelines and deliverables."
+      }
+    ],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "PhD",
+        "field": "Computer Science"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Data Dashboard",
+        "description": "Implemented a CRM tool for managing client relationships."
+      },
+      {
+        "title": "Mobile Game",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Female",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

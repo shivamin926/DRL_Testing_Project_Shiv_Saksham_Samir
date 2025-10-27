@@ -1,0 +1,39 @@
+{
+  "personal": {
+    "firstName": "David",
+    "lastName": "Kumar",
+    "email": "david.kumar@email.net",
+    "phone": "+16106009896",
+    "country": "CA"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "PhD",
+        "field": "Computer Science"
+      },
+      {
+        "school": "Peking University",
+        "degree": "Bachelor",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Data Dashboard",
+        "description": "Implemented a CRM tool for managing client relationships."
+      }
+    ],
+    "skills": "Python, SQL",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "Yes",
+    "canWork": "Yes",
+    "gender": "Female",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

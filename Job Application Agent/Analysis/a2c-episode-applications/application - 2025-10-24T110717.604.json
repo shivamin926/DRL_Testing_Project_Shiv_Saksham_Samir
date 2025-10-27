@@ -1,0 +1,34 @@
+{
+  "personal": {
+    "firstName": "Alice",
+    "lastName": "Lee",
+    "email": "alice.lee@test.org",
+    "phone": "+442960642027",
+    "country": "GB"
+  },
+  "experience": {
+    "works": [],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Data Science"
+      },
+      {
+        "school": "University of Toronto",
+        "degree": "Master",
+        "field": "Data Science"
+      }
+    ],
+    "projects": [],
+    "skills": "React, Node.js",
+    "linkedin": ""
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "Yes",
+    "disabilityStatus": "I do not want to answer"
+  }
+}

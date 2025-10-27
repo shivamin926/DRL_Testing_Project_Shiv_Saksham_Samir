@@ -1,0 +1,56 @@
+{
+  "personal": {
+    "firstName": "Chloe",
+    "lastName": "Lee",
+    "email": "chloe.lee@email.net",
+    "phone": "+556260589062",
+    "country": "BR"
+  },
+  "experience": {
+    "works": [
+      {
+        "jobTitle": "UX Designer",
+        "company": "InnoSoft",
+        "location": "London",
+        "from": "2020-09",
+        "to": "2022-12",
+        "role": "Managed project timelines and deliverables."
+      },
+      {
+        "jobTitle": "Project Manager",
+        "company": "TechCorp",
+        "location": "Bangalore",
+        "from": "2018-08",
+        "to": "2024-07",
+        "role": "Analyzed business data to extract insights."
+      }
+    ],
+    "educations": [
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Design"
+      },
+      {
+        "school": "University of Toronto",
+        "degree": "Diploma",
+        "field": "Information Technology"
+      }
+    ],
+    "projects": [
+      {
+        "title": "E-Commerce Platform",
+        "description": "Created a dashboard for visualizing sales data."
+      }
+    ],
+    "skills": "Python, SQL",
+    "linkedin": "https://linkedin.com/in/zhangwei"
+  },
+  "questions": {
+    "age18": "No",
+    "canWork": "Yes",
+    "gender": "Decline To Self-Identify",
+    "veteranStatus": "No",
+    "disabilityStatus": "Yes, I have a disability, or have had one"
+  }
+}
