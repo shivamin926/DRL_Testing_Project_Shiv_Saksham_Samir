@@ -19,7 +19,7 @@ Doodle-DRL/
 ├─ src/
 │   ├─ train.py                  # Train PPO/A2C models
 │   ├─ eval.py                   # Evaluate trained models → metrics CSVs
-│   ├─ visualize.py              # Record gameplay GIF/MP4s to notebooks/
+│   ├─ visualize.py              # Record gameplay 
 │   └─ plot_result.py            # Plot learning/eval results → notebooks/
 ├─ configs/
 │   └─ personas.yaml             # Reward persona configurations
