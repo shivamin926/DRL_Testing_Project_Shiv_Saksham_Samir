@@ -15,7 +15,11 @@ from agent.handler.data_loader import ApplicantManager, Applicant
 class WebFlowEnv(gym.Env):
     """Unified Gym environment that navigates through all 4 application pages sequentially."""
 
+<<<<<<< Updated upstream
     def __init__(self):
+=======
+    def __init__(self, applicant=None):
+>>>>>>> Stashed changes
         super().__init__()
 
         # ---------- Shared Chrome driver ----------
@@ -35,7 +39,11 @@ class WebFlowEnv(gym.Env):
         # ---------- Dataset ----------
         self.manager = ApplicantManager(Applicant)
         self.manager.load_from_json("agent/train_data/full_applicants.json", key="applicants")
+<<<<<<< Updated upstream
         self.current_applicant = None
+=======
+        self.current_applicant = applicant
+>>>>>>> Stashed changes
 
         # ---------- Page flow ----------
         self.pages = [IndexEnv, ExperienceEnv, QuestionsEnv, ReviewEnv]
@@ -66,7 +74,12 @@ class WebFlowEnv(gym.Env):
         super().reset(seed=seed)
 
         # Pick next applicant
+<<<<<<< Updated upstream
         self.current_applicant = self.manager.next_applicant()
+=======
+        if self.current_applicant is None:
+            self.current_applicant = self.manager.next_applicant()
+>>>>>>> Stashed changes
         self.page_index = 0
 
         # Start first page with the shared driver

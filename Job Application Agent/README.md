@@ -134,11 +134,28 @@ python -m http.server 8000   # serve website locally
 - Data to be used for training or testing needs to be JSON formatted. Refer to following directory for the structure ```Agent/agent/train_data/{json samples}```
 - Data to be present in the same directory as mentioned above.
 ```bash
+<<<<<<< Updated upstream
 # Full sequential webflow
 python train_full_ppo.py
 
 # Single-page debug
 python train_single_ppo.py
+=======
+#Training
+# Full sequential webflow PPO
+python python -m agent.src.train_full_ppo
+# Full sequential webflow A2C
+python python -m agent.src.train_full_a2c
+
+# Single-page 
+python python -m agent.src.train_single.ppo
+
+#Testing
+# Full sequential webflow PPO
+python python -m agent.src.test_ppo
+# Full sequential webflow A2C
+python python -m agent.src.test_ppo
+>>>>>>> Stashed changes
 ```
 
 ### Repository Structure

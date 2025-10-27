@@ -31,11 +31,21 @@ This repository contains two separate projects used for coursework and experimen
    # create and activate a Python virtual environment (example)
    python -m venv .\venv
    .\venv\Scripts\Activate.ps1
+<<<<<<< Updated upstream
 
    # install dependencies
    python -m pip install -r .\requirements.txt
    ```
+=======
+>>>>>>> Stashed changes
 
+   # install dependencies
+   python -m pip install -r .\requirements.txt
+   ```
+## Presentation Video
+Presentation video can be found on the following link.
+```
+```
 ## General notes
 - Prefer `python -m pip install` so pip runs with the same Python interpreter as your virtual environment.
 - If you get "Could not open requirements file" errors, confirm your current directory with `Get-Location` (PowerShell) or `pwd` (bash), or provide the full path to the requirements file.
